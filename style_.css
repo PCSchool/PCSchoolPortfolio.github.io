@@ -1,0 +1,57 @@
+body {
+	background-color: #ffffff
+}
+
+h1, h2, h3 {
+	color: #000c17;
+	text-align: center;
+	font-family: armenian;
+}
+
+h5{
+	color: #000c17;
+	text-align: center;
+	font-family: armenian;
+}
+
+p{
+	text-align: left;
+	font-size: 14px;
+	font-family: arial;
+	color: #333333;
+}
+
+footer {
+	padding-left: 10px;
+	background-color: #333333;
+}
+
+footer h1{
+	color: #ffffff;
+}
+
+footer p{
+	color: #E9E7FC;
+}
+
+footer a{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+footer a:hover{
+	color: #FC7695;
+}
+
+#container {
+	padding: 50px;
+	color: #000c17;
+}
+
+#containerEducation{
+	color: #333333;
+}
+
+table {
+	padding: 10px;
+}
